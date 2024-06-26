@@ -33,7 +33,7 @@ export default function App() {
         ))}
       </ul>
       <div>
-        🥳 App successfully hosted. Try creating a new todo.
+        🥳 App successfully hosted. Try creating a new todo New changes.
         <br />
         <a href="https://docs.amplify.aws/gen2/start/quickstart/nextjs-pages-router/">
           Review next steps of this tutorial.
